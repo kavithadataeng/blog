@@ -1,3 +1,3 @@
 # Personal blog
 
-Personal Blog served through https://kavithadataeng.github.io/site/ using Hugo.
+Personal Blog served through https://kavithadataeng.github.io/blog/ using Hugo.
