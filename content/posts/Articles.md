@@ -8,7 +8,7 @@ tags:
   - "javascript"
   - "cloud"
   - "gdal"
-  - "react"
+  - "data"
   - "geospatial"
 ---
 
