@@ -1,6 +1,6 @@
 ---
 title: "Good Reads"
-date: "2024-08-12" 
+date: "2025-04-19" 
 tags:
   - "gis"
   - "technology"
