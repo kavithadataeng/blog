@@ -17,8 +17,6 @@ I'll share some of good technical articles and blogs which I came across.
 
 - **[Awesome Vector-tiles](https://github.com/mapbox/awesome-vector-tiles)** . List of parsers and generators, clients and geospatial tools. 
 
-- **[What are Vector-tiles?](https://www.maptiler.com/news/2019/02/what-are-vector-tiles-and-why-you-should-care/)** . Good summary of vector-tiles and why should we care
-
 
 - **[Awesome MapBox Resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources
 )** - List of external resources if you are using Mapbox
